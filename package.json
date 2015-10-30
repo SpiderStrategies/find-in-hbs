@@ -1,0 +1,19 @@
+{
+  "name": "find-in-hbs",
+  "version": "1.0.0",
+  "description": "finds an element within an hbs file which matches the given css selector",
+  "main": "find-in-hbs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpiderStrategies/find-in-hbs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpiderStrategies/find-in-hbs/issues"
+  },
+  "homepage": "https://github.com/SpiderStrategies/find-in-hbs#readme"
+}
